@@ -1,10 +1,10 @@
 # 👋 Hi, I’m Ultrasword
 ## I am a human being.
 
-- 📚11th grade IB Diploma candidate
-- 👀I enjoy making small games and playing with my friends
-- 😞CCC is not fun - MAC is bad smh Apple I thought you were different
-- 🌱LWJGL and SDL in C++ becuase C++ just build different
+- 📚11th grade IBDP Student slowly melting into cheese...
+- 👀I enjoy making small games and playing with my friends - currently making game!
+- 😞CCC is not fun - brain boggling
+- 🌱LWJGL and SDL in C++, oh also, Python is cool 😎
 - 📫Discord! `Ultrasword#7313`
 
 My website can be found here: [Non existent page so don't bother](https://google.com).
