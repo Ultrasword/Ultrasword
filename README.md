@@ -7,7 +7,7 @@
 - 🌱LWJGL and SDL in C++, oh also, Python is cool 😎
 - 📫Discord! `Ultrasword#7313`
 
-My website can be found here: [Non existent page so don't bother](https://google.com).
+My website can be found here: [My Linktree](https://linktr.ee/petthepotat).
 
 <!--- git repo https://github.com/anuraghazra/github-readme-stats --->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ultrasword)](https://github.com/anuraghazra/github-readme-stats)
