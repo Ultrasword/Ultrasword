@@ -1,11 +1,12 @@
 # 👋 Hi, I’m Ultrasword
 ## I am a human being.
 
-- 📚11th grade IBDP Student slowly melting into cheese...
+- 📚12th grade IBDP Student slowly melting into cheese... (its gr 12 😱)
 - 👀I enjoy making small games and playing with my friends - currently making game!
 - 😞CCC is not fun - brain boggling
 - 🌱LWJGL and SDL in C++, oh also, Python is cool 😎
 - 📫Discord! `Ultrasword#7313`
+- 😝I dislike webdev but I do it sometimes ~.~
 
 My website can be found here: [My Linktree](https://linktr.ee/petthepotat).
 
