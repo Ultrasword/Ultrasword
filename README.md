@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Ultrasword
+# 👋 Hi, I’m Peter
 ## I am a human being.
 
 - 📚 12th grade IBDP Student slowly melting into cheese... (its gr 12 😱)
