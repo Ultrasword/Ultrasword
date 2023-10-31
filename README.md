@@ -1,12 +1,12 @@
 # 👋 Hi, I’m Peter
 ## I am a human being.
 
-- 📚 12th grade IBDP Student slowly melting into cheese... (its gr 12 😱)
-- 👀 I enjoy making small games and playing with my friends - currently making game!
+- 📚 First Year University of Waterloo - Computer Engineering - IB Grad Student slowly melting into cheese... (its year 1 😱)
+- 👀 I enjoy making small games and playing with my friends - currently bulding a game!
 - 😞 CCC is not fun - brain boggling
 - 🌱 LWJGL and SDL in C++, oh also, Python is cool 😎
 - 📫 Discord! `Ultrasword#7313`
-- 😝 I dislike webdev but I do it sometimes ~.~
+- 😝 I love webdev, game dev, and everything software related!
 
 My website can be found here: [My Linktree](https://linktr.ee/petthepotat).
 
