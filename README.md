@@ -8,7 +8,14 @@
 - 📫 Discord! `Ultrasword#7313`
 - 😝 I love webdev, game dev, and everything software related!
 
-My website can be found here: [My Linktree](https://linktr.ee/petthepotat).
+Most of my projects can be found here: 
+- [Game Development Project](https://github.com/Ultrasword-Coder)
+- [My Game Devlog Projects](https://github.com/Ultrasword-Game-Development)
+- [Various Personal Projects](https://github.com/petthepotat)
+- [Random Projects - OpenCV, Various APIs, Robotics](https://github.com/orgs/petthepotat-dump/repositories)
+- [Projects Made for the University of Waterloo](https://github.com/pet-waterloo)
+- [Eternal.AI - AI Upscaling and Interpolation Project](https://github.com/eternal-ai-uw)
+
 
 <!--- git repo https://github.com/anuraghazra/github-readme-stats --->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ultrasword)](https://github.com/anuraghazra/github-readme-stats)
