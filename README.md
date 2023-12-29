@@ -2,8 +2,8 @@
 ## I am a human being.
 
 - 📚 First Year University of Waterloo - Computer Engineering - IB Grad Student slowly melting into cheese... (its year 1 😱)
-- 👀 I enjoy making small games and playing with my friends - currently bulding a game!
-- 😞 CCC is not fun - brain boggling
+- 👀 I enjoy making small games and playing with my friends - currently building a game!
+- 😞 CCC is fun - brain boggling
 - 🌱 LWJGL and SDL in C++, oh also, Python is cool 😎
 - 📫 Discord! `Ultrasword#7313`
 - 😝 I love webdev, game dev, and everything software related!
