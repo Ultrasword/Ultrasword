@@ -17,6 +17,16 @@ Most of my projects can be found here:
 - [Eternal.AI - AI Upscaling and Interpolation Project](https://github.com/eternal-ai-uw)
 
 
+# HERE ARE SOME IMPORTANT REPOSITORIES... 
+To be fair, I gotta organize my github :(
+
+- [AI Chatbot for Chefs](https://github.com/pet-waterloo/recipes.ai)
+- [NodeJS, Express, PostgreSQL, JavaScript Application](https://github.com/petthepotat/Project-PZOTY)
+- [Personal Website in React](https://github.com/Ultrasword/Peter-Personal-Website)
+- [Java, PostgreSQL, Spring Boot, React Application](https://github.com/Ultrasword/EMS-Java-JSP-React)
+- [Python Platformer I'm building](https://github.com/Ultrasword-Game-Development/elementals.ai)
+
+
 <!--- git repo https://github.com/anuraghazra/github-readme-stats --->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ultrasword)](https://github.com/anuraghazra/github-readme-stats)
 
