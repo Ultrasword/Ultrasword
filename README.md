@@ -1,10 +1,9 @@
 # 👋 Hi, I’m Peter
-## I am a human being.
+## I am a professional human being.
 
-- 📚 First Year University of Waterloo - Computer Engineering - IB Grad Student slowly melting into cheese... (its year 1 😱)
-- 👀 I enjoy making small games and playing with my friends - currently building a game!
-- 😞 CCC is fun - brain boggling
-- 🌱 LWJGL and SDL in C++, oh also, Python is cool 😎
+- 📚 2nd Year - University of Waterloo - Computer Engineering - IB Grad
+- 👀 I like building games!
+- **Read this:** I should update my github `README.md` oops
 - 📫 Discord! `Ultrasword#7313`
 - 😝 I love webdev, game dev, and everything software related!
 
