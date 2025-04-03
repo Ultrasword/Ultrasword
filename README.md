@@ -33,6 +33,7 @@ Most of my projects can be found here:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ultrasword)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ultrasword)](https://github.com/anuraghazra/github-readme-stats)
 
+![Peter's Github Trends](https://api.githubtrends.io/user/svg/Ultrasword/repos?time_range=one_year&loc_metric=changed&theme=dark)
 
 <!---
 Ultrasword/Ultrasword is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
