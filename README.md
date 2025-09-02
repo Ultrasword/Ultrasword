@@ -53,7 +53,7 @@ Check out my stuff here --> [**Personal Website**](https://github.com/Ultrasword
 [![Peter’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Ultrasword&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ultrasword&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)  
 
-![Peter's Github Trends](https://api.githubtrends.io/user/svg/Ultrasword/repos?time_range=one_year&loc_metric=changed&theme=dark)  
+<!--![Peter's Github Trends](https://api.githubtrends.io/user/svg/Ultrasword/repos?time_range=one_year&loc_metric=changed&theme=dark)  -->
 
 ---
 
