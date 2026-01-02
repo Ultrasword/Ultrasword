@@ -11,11 +11,12 @@ Check out my stuff here --> [**Personal Website**](https://github.com/Ultrasword
 ---
 
 ### 🚧 Under Construction
-- [**Study Garden**](https://github.com/Peter-Dated-Projects/08-18-2025_group-study-idle-app) - Group Remote Studying Platform for Students
+- [**Echo**](https://github.com/Peter-Dated-Projects/09-15-2025_discord-meeting-transcriptor) - A discord call transcription bot & agentic multi-purpose chatbot for meetings and general user chat.
 - [**Whispercore**](https://github.com/Peter-Dated-Projects/04-13-2025_speech-to-text-mac) - Voice based chat agent.
 
 
 ### 💎 Full-Stack Projects
+- [**Study Garden**](https://github.com/Peter-Dated-Projects/08-18-2025_group-study-idle-app) - Group Remote Studying Platform for Students
 - [**Instagram Reels Generator**](https://github.com/Peter-Dated-Projects/07-03-2025_automated-video-editor) - Automated Video Creation Platform
 - [**State Machine Editor**](https://github.com/Peter-Dated-Projects/state-machine-IDE) - State Machine Floatchart IDE
 - [**AI Chatbot for Chefs**](https://github.com/pet-waterloo/recipes.ai) — a domain-specific AI assistant for recipes & cooking  
